@@ -1,7 +1,5 @@
 # cssd1161-w4-ex1-Adi
 
-
-
 \# About me:
 
 \## My name is Adithya Naveen, I am a first year student for the CSSD program. My YorkU number is 222377550
