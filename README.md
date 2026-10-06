@@ -4,7 +4,7 @@
 
 \# About me:
 
-\## My name is Adithya Naveen, I am a first year student for the CSSD program. My YorkU number is 222377550
+\## My name is Adithya Naveen, I am a first year student for the CSSD program.
 
 \# Goals for this course:
 
